@@ -16,3 +16,9 @@ Date: September 13, 2021
 
 ## Update: October 25, 2021
 I have been able to improve my pyraminx duo times quite a bit since September, but I haven't been able to log times for the pyraminx as I have not yet been able to finish it yet. I am getting closer by completing more of each side, but I still am not able to completely finish it. However, I think I have been making really good progress, and I know it won't be long before I'll be able to solve it.
+
+## Update: October 26, 2021
+  <ul>
+    <li>I am able to solve 1 side of the pyraminx, after a **LONG** time! I was able to get the pyraminx to the stage of having one incorrect block per side.</li>
+    <li>I am also getting better at determining which side should be which colour on the pyraminx.</li>
+  
